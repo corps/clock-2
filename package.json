@@ -1,0 +1,30 @@
+{
+  "name": "clock-2",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corps/clock-2.git"
+  },
+  "dependencies": {
+    "autoprefixer": "^7.1.1",
+    "css-loader": "^0.28.4",
+    "css-mqpacker": "^6.0.1",
+    "cssnano": "^3.10.0",
+    "file-loader": "^0.11.2",
+    "kamo-reducers": "^1.1.0",
+    "perfectionist": "^2.4.0",
+    "postcss-conditionals": "^2.1.0",
+    "postcss-css-variables": "^0.7.0",
+    "postcss-custom-media": "^6.0.0",
+    "postcss-discard-comments": "^2.0.4",
+    "postcss-import": "^10.0.0",
+    "postcss-loader": "^2.0.6",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "style-loader": "^0.18.2",
+    "tachyons": "^4.7.4",
+    "tslib": "^1.7.1",
+    "url-loader": "^0.5.9"
+  }
+}
